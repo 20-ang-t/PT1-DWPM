@@ -15,12 +15,7 @@ Aplicación CRUD básica para la gestión de empleados desarrollada con PHP y My
 * **Seguridad básica** contra inyecciones SQL
 
 
- **Clona el repositorio**:
 
-    ```
-    git clone https:https://github.com/20-ang-t/PT1-DWPM
-   
-    ```
 
 
 ## 🛠️ Stack Tecnológico
@@ -61,12 +56,18 @@ gestion-empleados/
 * MySQL 5.7+
 
 ### Pasos:
-1. **Importar base de datos**:
+
+1. **Clona el repositorio**:
+    ```bash
+    git clone https:https://github.com/20-ang-t/PT1-DWPM
+    ```
+
+2. **Importar base de datos**:
    ```bash
    mysql -u usuario -p gestion_empleados < gestion_empleados.sql
    ```
 
-2. **Configurar conexión** (editar `includes/config.php`):
+3. **Configurar conexión** (editar `includes/config.php`):
    ```php
    define('DB_HOST', 'localhost');
    define('DB_USER', 'tu_usuario');
@@ -74,7 +75,7 @@ gestion-empleados/
    define('DB_NAME', 'gestion_empleados');
    ```
 
-3. **Subir archivos** al directorio raíz de tu servidor web.
+4. **Subir archivos** al directorio raíz de tu servidor web.
 
 ## 🖥️ Uso
 

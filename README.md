@@ -1,5 +1,8 @@
 ## Sistema de Gestión de Empleados
 
+
+<img src="https://github.com/user-attachments/assets/4b2ffeac-0386-4b62-a52c-67a514adce9d" alt="Gestión de Empleados" width="800" />
+
 ## 📝 Descripción
 
 Aplicación CRUD básica para la gestión de empleados desarrollada con PHP y MySQL, que permite crear, listar, editar y eliminar empleados. Cada empleado registrado contiene: nombre completo, cargo, correo electrónico y fecha de ingreso.

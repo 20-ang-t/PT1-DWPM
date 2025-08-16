@@ -1,6 +1,6 @@
 ## Sistema de Gestión de Empleados
 
-
+[![6b532dd2-9f11-4b0e-8685-fa319c65ce4b.png](https://i.postimg.cc/QCWyX59M/6b532dd2-9f11-4b0e-8685-fa319c65ce4b.png)](https://postimg.cc/H8d2zrtG)
 
 
 ## 📝 Descripción

@@ -15,6 +15,12 @@ Aplicación CRUD básica para la gestión de empleados desarrollada con PHP y My
 * **Seguridad básica** contra inyecciones SQL
 
 
+ **Clona el repositorio**:
+
+    ```bash
+    git clone https:https://github.com/20-ang-t/-Proyecto-Energ-as-Renovables
+   
+    ```
 
 
 ## 🛠️ Stack Tecnológico

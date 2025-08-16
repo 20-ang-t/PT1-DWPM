@@ -1,4 +1,4 @@
-# README - Sistema de Gestión de Empleados
+## Sistema de Gestión de Empleados
 
 ## 📝 Descripción
 

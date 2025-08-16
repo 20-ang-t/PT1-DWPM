@@ -17,8 +17,8 @@ Aplicación CRUD básica para la gestión de empleados desarrollada con PHP y My
 
  **Clona el repositorio**:
 
-    ```bash
-    git clone https:https://github.com/20-ang-t/-Proyecto-Energ-as-Renovables
+    ```
+    git clone https:https://github.com/20-ang-t/PT1-DWPM
    
     ```
 

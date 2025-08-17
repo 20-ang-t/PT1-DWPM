@@ -2,6 +2,14 @@
 
 [![6b532dd2-9f11-4b0e-8685-fa319c65ce4b.png](https://i.postimg.cc/QCWyX59M/6b532dd2-9f11-4b0e-8685-fa319c65ce4b.png)](https://postimg.cc/H8d2zrtG)
 
+
+* **P → Prueba
+* **T1 → Técnica 1
+* **D → Desarrollo
+* **W → WEB
+* **P → PHP
+* **M → MySQL
+
 ## 📝 Descripción
 
 Aplicación CRUD básica para la gestión de empleados desarrollada con PHP nativo (sin frameworks) y MySQL, que permite crear, listar, editar y eliminar empleados. Cada empleado registrado contiene: nombre completo, cargo, correo electrónico y fecha de ingreso.

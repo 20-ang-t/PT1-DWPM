@@ -3,12 +3,17 @@
 [![6b532dd2-9f11-4b0e-8685-fa319c65ce4b.png](https://i.postimg.cc/QCWyX59M/6b532dd2-9f11-4b0e-8685-fa319c65ce4b.png)](https://postimg.cc/H8d2zrtG)
 
 
+El nombre del repositorio es PT1-DWPM, el cual corresponde al siguiente acrónimo:
+
 * **P → Prueba**
 * **T1 → Técnica 1**
 * **D → Desarrollo**
 * **W → WEB**
 * **P → PHP**
 * **M → MySQL**
+
+En conjunto, PT1-DWPM significa:
+“Prueba Técnica 1: Desarrollo Web con PHP y MySQL”.
 
 ## 📝 Descripción
 

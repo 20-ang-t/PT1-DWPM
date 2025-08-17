@@ -1,7 +1,7 @@
 -- Script de creación de la base de datos y tabla empleados
 -- Proyecto: Gestión de Empleados (CRUD con PHP y MySQL)
 -- Autor: [Miguel Ángel García Torres]
--- Fecha: [16-08-2026]
+-- Fecha: [16-08-2025]
 
 -- Crear la base de datos 
 CREATE DATABASE IF NOT EXISTS gestion_empleados;
